@@ -13,7 +13,7 @@
 	<img style="margin-right: 50px;" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="32"/>
 </h1>
 
-<h3>About Me</h3>
+### 📖 About Me
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -25,7 +25,7 @@
 
 - 🌐 You can see some of my projects on [my portfolio](https://www.callumilett.com)
 
-### Skills / Knowledge
+### 🛠️ Skills / Knowledge
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -74,8 +74,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-	<a href="https://github.com/AVS1508">
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+	<a href="https://github.com/callum-ilett">
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=callum-ilett&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=callum-ilett&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
 </p>
