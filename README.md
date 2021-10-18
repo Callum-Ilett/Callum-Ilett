@@ -7,10 +7,21 @@
 <h1 align="center">
 	Hey there, I'm <a href="https://www.callumilett.com">Callum</a>
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> <br/>
-	<img style="margin-right: 50px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="32" />
-	<img style="margin-right: 50px;" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32" />
-	<img style="margin-right: 50px;" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="32"/>
-	<img style="margin-right: 50px;" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="32"/>
+	<a href="https://www.linkedin.com/in/callum-ilett">
+		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="32" />
+	</a>
+	<a href="https://www.instagram.com/callum.ilett/">
+			<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32" />
+	</a>
+	<a href="https://www.facebook.com/callum.ilett.1">
+			<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="32"/>
+	</a>
+	<a href="https://twitter.com/CallumIlett">
+			<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="32"/>
+	</a>
+	
+
+
 </h1>
 
 ### 📖 About Me
