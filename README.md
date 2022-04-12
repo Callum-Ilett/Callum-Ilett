@@ -30,7 +30,7 @@
 
 - 💻 I'm a front end web developer
 
-- 💼 I’m currently working as a Junior Web Developer for UX Consultancy
+- 💼 I’m currently working as a Junior Web Developer for [UX Consultancy](https://uk.linkedin.com/company/uxconsultancy)
 
 - 🎓 I have a 2nd class honours degree in **Web Design & Development**
 
