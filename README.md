@@ -30,9 +30,9 @@
 
 - 💻 I'm a front end web developer
 
-- 💼 I’m currently working as a Junior Web Developer for [UX Consultancy](https://uk.linkedin.com/company/uxconsultancy)
+- 💼 I’m currently working as a Web Developer for [UX Consultancy](https://uk.linkedin.com/company/uxconsultancy)
 
-- 🎓 I have a 2nd class honours degree in **Web Design & Development**
+- 🎓 I have a degree in **Web Design & Development**
 
 - 🌐 You can see some of my projects on [my portfolio](https://www.callumilett.com)
 
