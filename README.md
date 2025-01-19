@@ -1,8 +1,3 @@
-<div align="center">
-	<a href="https://www.callumilett.com">
-		<img src="https://i.ibb.co/Hg2pZ17/002-min.jpg" alt="avatar" width="144" />
-	</a>
-</div>
 
 <h1 align="center">
 	Hey there, I'm <a href="https://www.callumilett.com">Callum</a>
